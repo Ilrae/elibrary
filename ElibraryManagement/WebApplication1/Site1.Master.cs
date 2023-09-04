@@ -147,7 +147,7 @@ namespace WebApplication1
         // view profile
         protected void LinkButton7_Click(object sender, EventArgs e)
         {
-
+            Response.Redirect("userprofile.aspx");
         }
     }
 }

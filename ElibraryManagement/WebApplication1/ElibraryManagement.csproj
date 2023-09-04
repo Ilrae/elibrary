@@ -73,6 +73,11 @@
     <Content Include="adminlogin.aspx" />
     <Content Include="adminmembermanagement.aspx" />
     <Content Include="adminpublishermanagement.aspx" />
+    <Content Include="book_inventory\b1.jpg" />
+    <Content Include="book_inventory\b2.jpg" />
+    <Content Include="book_inventory\b3.jpg" />
+    <Content Include="book_inventory\b4.jpg" />
+    <Content Include="book_inventory\b5.jpg" />
     <Content Include="css\customstylesheet.css" />
     <Content Include="datatables\css\cdn.datatables.net_1.13.6_css_jquery.dataTables.min.css" />
     <Content Include="datatables\js\cdn.datatables.net_1.13.6_js_jquery.dataTables.min.js" />
